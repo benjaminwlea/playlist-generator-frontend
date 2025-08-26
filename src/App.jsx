@@ -9,6 +9,7 @@ function App() {
       <header align='center'>
         <Title />
       </header>
+      
 
       <main className="main-layout">
         <Settings />
